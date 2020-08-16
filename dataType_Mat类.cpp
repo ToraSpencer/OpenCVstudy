@@ -15,7 +15,7 @@ using namespace cv;
 
 
 
-// OpenCV数据类型——Mat类
+// OpenCV数据类型——Mat类、以及相关的MatSize类、
 /*
 **
 */
