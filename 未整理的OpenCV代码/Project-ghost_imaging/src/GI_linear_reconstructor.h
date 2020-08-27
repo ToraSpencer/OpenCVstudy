@@ -24,7 +24,7 @@ public:
 	void saveImage();
 
 protected:
-	int MD,ND;								// 重构图像的横纵像素数。
+	int MD,ND;										// 重构图像的横纵像素数。
 	cv::Mat_<double> image;					// 重构出的图像
 
 };
